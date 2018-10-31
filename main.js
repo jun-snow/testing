@@ -1,4 +1,4 @@
-console.log('suh dude');
+console.log('M A S T E R');
 
 let add = function(num1, num2) {
   return num1 + num2;
